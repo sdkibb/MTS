@@ -1,0 +1,8 @@
+{
+  "name": "mts",
+  "app_id": "82448423",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
